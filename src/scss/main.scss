@@ -1,0 +1,12 @@
+@import "modules/view.scss";
+@import "modules/buttons.scss";
+@import "modules/glassofwater.scss";
+@import "~normalize.css";
+body {
+  background: #3460a3;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
